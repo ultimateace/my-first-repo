@@ -1,28 +1,25 @@
-# This is a large heading
+# Andrew Taylor
 
-## This is a smaller heading
+### Geography
+ 
+I live in the city of Kansas City, in the great state of Missouri in the United States of America
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+### Reading
 
-- This is
-- an unordered
-- list
+Three of my favorite books are:
 
-1. This is
-2. an ordered
-3. list
+- *The Hobbit* by J.R.Tolken
+- *The One Ring* Stephen Donldson
+- *The Stand* Stephen King
 
-Here is `some code` in the middle of a sentence.
+### Food
 
-```
-This is
-a block
-of code
-```
+Last night I dreamt about eating in the following resteraunts
 
-Here is how you make [a link](https://www.wikipedia.org/).
+1. Authur Bryants
+2. Kittys Cafe
 
-![This is an image.](https://github.com/yihui/xaringan/releases/download/v0.0.2/karl-moustache.jpg)
+### Contact
+
+The best way to get in touch with me is by sending messages
+
